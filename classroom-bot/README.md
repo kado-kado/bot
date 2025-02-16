@@ -338,10 +338,6 @@ https://classroom.google.com/c/`classroom-id`/m/`document-id`/details
 https://classroom.google.com/w/`classroom-id`/`t`or`tc`/`all`or`category-id`
 ```
 
-```
-https://classroom.google.com/r/NjczMzQ5MzEyMTQx/sort-last-name
-```
-
 ### classroomのメンバーを表示させる。
 
 | `{parameter_1}` | `{parameter_2}` | `{parameter_3}` |
