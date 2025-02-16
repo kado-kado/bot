@@ -1,5 +1,5 @@
 # From-Classroom-To-LINE
-
+notionをエクスポートしてるため、思い通りの表記にならない場合があります。
 ---
 
 # 目次
