@@ -1,5 +1,5 @@
 # From-Classroom-To-LINE
-notionをエクスポートしてるため、思い通りの表記にならない場合があります。
+<p style="font-color: red;">notionをエクスポートしてるため、思い通りの表記にならない場合があります。</p>
 ---
 
 # 目次
