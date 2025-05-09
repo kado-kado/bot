@@ -11,7 +11,7 @@ function doPost(e) {
       } else if (classInfo === '') {  //表示名
         courseId = '';  //classroom-id
       } else if (classInfo === '') {  //表示名
-        courseId = '673385961687'  //classroom-id
+        courseId = ''  //classroom-id
       } else if (classInfo === '') {  //表示名
         courseId = ''  //classroom-id
       }
